@@ -17,12 +17,6 @@ Additionally, a word cloud is used to identify and remove extra abbreviations an
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -30,5 +24,3 @@ To get started, clone this repository and install the required dependencies.
 
 ```bash
 git clone https://github.com/yourusername/indonesian-spam-detection.git
-cd indonesian-spam-detection
-pip install -r requirements.txt
